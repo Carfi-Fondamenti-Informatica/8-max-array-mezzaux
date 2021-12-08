@@ -9,6 +9,5 @@ int main(){
         cin>>numeri[i];
     }
     cout<<funzione(numeri,n);
-
     return 0;
 }
