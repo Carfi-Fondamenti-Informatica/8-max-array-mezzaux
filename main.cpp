@@ -5,9 +5,11 @@ int main(){
     int n=0;
     cin>> n;
     float numeri[n];
-    for(int i;i<n;i++){
+    int i=0;
+    for(i;i<n;i++){
         cin>>numeri[i];
     }
     cout<<funzione(numeri,n);
+
     return 0;
 }
