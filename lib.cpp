@@ -6,6 +6,5 @@ float funzione(const float numeri[],int n){
             max=numeri[i];
         }
     }
-   
-    return max;
+  return max;
 }
